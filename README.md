@@ -1,16 +1,52 @@
-# qr_scanner
+#  QR Scanner App
 
-A new Flutter project.
+A Flutter-based QR Code Scanner app developed as **Task 05** of the *Prodigy InfoTech Android Development Internship*.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+- Scan QR codes in real-time
+- Instantly show scanned data
+- Easy camera permission management
+- Clean and intuitive UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+##  Tech Stack
+
+- Flutter
+- Dart
+- Android Studio / VS Code
+- Git & GitHub
+
+---
+
+##  Folder Structure
+
+qr_scanner/
+├── lib/
+│ └── main.dart
+├── pubspec.yaml
+├── screenshots/
+│ └── scanner.png
+└── README.md
+
+
+---
+
+## 🔧 Setup Instructions
+
+Clone the repo:
+
+```bash
+git clone https://github.com/HafsathNoora/PRODIGY_AD_05.git
+cd PRODIGY_AD_05
+flutter pub get
+flutter run
+
+Author
+Hafsath Noora
+GitHub – @HafsathNoora
